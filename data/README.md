@@ -1,5 +1,3 @@
 # Données du projet
-
-Les données brutes ne sont volontairement pas versionnées dans ce dépôt.
-
-Avant de les partager, vérifier la source officielle, la licence de réutilisation, la présence éventuelle d'informations sensibles et la taille des fichiers. Ajouter ici le lien vers le jeu de données et les instructions d'import dans MySQL.
+les données sont issues de open data paris 
+https://opendata.paris.fr/explore/dataset/comptage-velo-donnees-compteurs/export/?disjunctive.id_compteur&disjunctive.nom_compteur&disjunctive.id&disjunctive.name
