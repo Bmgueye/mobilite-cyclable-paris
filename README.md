@@ -115,7 +115,7 @@ mobilite-cyclable-paris/
 │   ├── dashboard-1-vue-globale.png
 │   └── dashboard-2-analyse-flux.png
 ├── sql/
-│   └── analyses.sql          # Ajouter ici les requêtes SQL commentées
+│   └── analyses.sql         
 └── data/
     └── README.md             # Informations sur la source et le mode d'accès aux données
 ```
