@@ -141,9 +141,9 @@ Les fichiers de données bruts ne sont pas inclus dans ce dépôt. Ajouter le sc
 
 ## Auteur et licence
 
-- **Auteur :** à compléter.
-- **Source des données :** à compléter avec le lien officiel du jeu de données.
-- **Licence des données :** à vérifier et à mentionner avant publication.
+- **Auteur :** Babacar GUEYE.
+- **Source des données :** https://opendata.paris.fr/explore/dataset/comptage-velo-donnees-compteurs/export/?disjunctive.id_compteur&disjunctive.nom_compteur&disjunctive.id&disjunctive.name
+- **Licence des données :** Open source
 - **Licence du code et des documents :** à choisir (par exemple MIT pour le code, sous réserve des droits applicables aux données et captures).
 
 ---
