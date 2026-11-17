@@ -144,7 +144,7 @@ Les fichiers de données bruts ne sont pas inclus dans ce dépôt. Ajouter le sc
 - **Auteur :** Babacar GUEYE.
 - **Source des données :** https://opendata.paris.fr/explore/dataset/comptage-velo-donnees-compteurs/export/?disjunctive.id_compteur&disjunctive.nom_compteur&disjunctive.id&disjunctive.name
 - **Licence des données :** Open source
-- **Licence du code et des documents :** à choisir (par exemple MIT pour le code, sous réserve des droits applicables aux données et captures).
+
 
 ---
 
